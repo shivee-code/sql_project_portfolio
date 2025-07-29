@@ -55,5 +55,5 @@ To optimize Walmart’s sales strategies by analyzing historical transactions ac
   - Branch, City, Date
   - Customer ID & Type
   - Product Line, Payment Method
-  - Total Sales, COGS, Gross Income
+  - Total Sales, COGS, Gross Income 
 
