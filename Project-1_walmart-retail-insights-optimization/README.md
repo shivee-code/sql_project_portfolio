@@ -10,9 +10,6 @@ To optimize Walmart’s sales strategies by analyzing historical transactions ac
 
 ---
 
-
----
-
 ## Key Business Questions Answered
 
 1. **Top Branch by Sales Growth Rate** – Identified branches with the highest month-over-month sales growth.
