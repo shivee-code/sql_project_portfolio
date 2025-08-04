@@ -34,7 +34,7 @@ These projects cover diverse domains such as **retail, food delivery**, and **e-
 
 ---
 
-### [Project 3: Big Basket Product Performance Analysis](./Project-3_product_performance_analysis_bigbasket)
+### [Project 3: Big Basket Product Performance Analysis](./Project-3_product_performance_analysis_BigBasket)
  A deep-dive analysis of product performance, sales pricing, and customer preferences from Big Basket's product data.
 
 - Ranking products by sale price using window functions  
